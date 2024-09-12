@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1682446092 source:c:\users\abhilash\downloads\problem sheet\movie\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<iomanip>
+	"global.h"
+	"movieInfo.h"
+
+1682435285 c:\users\abhilash\downloads\problem sheet\movie\global.h
+	<iostream>
+	<string>
+	<cstring>
+	<iomanip>
+
+1682434935 c:\users\abhilash\downloads\problem sheet\movie\movieinfo.h
+	<iostream>
+
+1682507457 source:c:\users\hari haran\desktop\new folder\movie\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<iomanip>
+	<fstream>
+
+1682657937 source:c:\users\abhilash\desktop\movie\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<cmath>
+	<iomanip>
+	<fstream>
+	"Screen1.h"
+	"Screen2.h"
+	"Screen3.h"
+	"Screen4.h"
+	"Screen5.h"
+	"Screen6.h"
+	"Account.h"
+	"Payment.h"
+	"GlobalFunctions.h"
+	"MovieInfo.h"
+
+1682622117 c:\users\abhilash\desktop\movie\screen1.h
+	<fstream>
+
+1682622706 c:\users\abhilash\desktop\movie\screen2.h
+
+1682622859 c:\users\abhilash\desktop\movie\screen3.h
+
+1682622913 c:\users\abhilash\desktop\movie\screen4.h
+
+1682622967 c:\users\abhilash\desktop\movie\screen5.h
+
+1682623018 c:\users\abhilash\desktop\movie\screen6.h
+	<fstream>
+
+1682618638 c:\users\abhilash\desktop\movie\account.h
+
+1682657787 c:\users\abhilash\desktop\movie\payment.h
+
+1682529880 c:\users\abhilash\desktop\movie\globalfunctions.h
+
+1682529880 c:\users\abhilash\desktop\movie\movieinfo.h
+

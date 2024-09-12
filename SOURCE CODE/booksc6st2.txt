@@ -1,0 +1,5 @@
+E 2 X
+F 4 X
+D 3 X
+G 4 X
+E 5 X
